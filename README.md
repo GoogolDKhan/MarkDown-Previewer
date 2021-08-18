@@ -8,8 +8,8 @@
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [SASS](https://sass-lang.com/documentation/syntax)
-- [ReactJS](https://reactjs.org/docs/hello-world.html)
-- [MarkedJS](https://marked.js.org/)
+- [React JS](https://reactjs.org/docs/hello-world.html)
+- [Marked JS](https://marked.js.org/)
 
 ## Author
 
