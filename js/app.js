@@ -1,5 +1,3 @@
-const projectName = "markdown-previewer";
-
 //allows line breaks with return button
 marked.setOptions({
     breaks: true
