@@ -1,4 +1,4 @@
-# MarkDown Previewer
+# MarkDown Previewer [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/markdown-previewer/badge)](https://www.codefactor.io/repository/github/googoldkhan/markdown-previewer)
 
 ## Running
 ### If you are using Visual Studio Code
